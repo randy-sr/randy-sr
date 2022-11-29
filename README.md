@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://randy-sr.github.io/portfolio/](https://randy-sr.github.io/portfolio/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **randysr2803@gmail.com**
 
